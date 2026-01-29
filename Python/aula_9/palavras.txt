@@ -1,0 +1,91 @@
+Fundamentação da Metafísica dos Costumes
+Immanuel Kant
+Tradução de Antônio Pinto de Carvalho
+Companhia Editora Nacional
+PREFÁCIO
+A ANTIGA filosofia grega repartia-se em três ciências: a Física, a Ética e a Lógica.. Esta
+divisão está inteiramente de acordo com a natureza das coisas, nem temos que
+introduzir-lhe qualquer espécie de aperfeiçoamento, a não ser acrescentar o princípio em
+que ela se baseia, para que desse modo possamos, por um lado, possuir a certeza de ela
+ser completa e, por outro lado, determinar com exatidão as subdivisões necessárias.
+Todo conhecimento racional é ou material e refere-se a qualquer objeto, ou formal e
+ocupa-se exclusivamente com a forma do entendimento e da razão, um e outro em si
+mesmos considerados, e com as regras universais do pensamento em geral, sem
+distinção de objetos. A filosofia formal denomina-se LÓGICA, mas a filosofia material,
+que trata de objetos determinados e das leis a que eles estão sujeitos, divide-se, por sua
+vez, em duas, visto estas leis serem ou leis da natureza ou leis da liberdade. A ciência
+das primeiras chama-se FÍSICA; a das segundas, ÉTICA. Aquela dá-se também o nome de
+Filosofia da natureza ou Filosofia natural; a esta, o de Filosofia dos costumes.
+A Lógica não pode comportar parte empírica, ou seja, parte na qual as leis universais e.
+necessárias do pensamento estribem em princípios tomados da experiência; de
+contrário, não seria lógica, isto é, cânone do entendimento e da razão, válido para todo
+pensamento e capaz de ser demonstrado. Ao invés, tanto a Filosofia natural como a
+Filosofia moral podem, cada uma, possuir uma parte empírica, pois devem aplicar suas
+leis, aquela à natureza como a objeto da experiência, e esta à vontade humana enquanto
+afetada pela natureza: leis, no primeiro, caso, em conformidade com as quais tudo
+acontece; leis, no segundo caso, de acordo com as quais tudo deve (388) acontecer,
+tomando todavia em consideração as condições, mercê das quais muitas vezes não
+acontece o que deveria acontecer.
+Pode-se denominar empírica toda filosofia que se apóia em princípios da experiência; e
+pura, a que deriva suas doutrinas exclusivamente de princípios a priori. Esta, quando
+simplesmente formal, chama-se Lógica; mas, se for circunscrita a determinados objetos
+do entendimento, recebe o nome de Metafísica.
+Deste modo, surge a idéia de uma dupla metafísica: uma Metafísica da natureza e uma
+Metafísica dos costumes. A Física terá pois, além de sua parte empírica, uma parte
+racional . Outro tanto sucede com a Ética; embora, aqui, a parte empírica possa
+denominar-se particularmente Antropologia prática, e a parte racional receber o nome
+de Moral.
+Todas as indústrias, mesteres e artes lucraram com a divisão do trabalho. Devido a ela,
+não é um só que faz todas as coisas, mas cada qual se circunscreve àquela tarefa
+peculiar que, por seu modo de execução, se distingue sensivelmente das demais, a fim
+de poder cumpri-la com o máximo de perfeição e de facilidade possível. Onde os
+trabalhos não são assim divididos e discriminados, e cada artista tem de realizar tudo
+por si, as indústrias permanecem numa fase de grande barbárie. Ora seria, por certo,
+questão digna de ser examinada, perguntar se a filosofia pura não exige em todas as suas
+partes uni especialista que se lhe dedique exclusivamente, e se, para o conjunto desta
+indústria que é a ciência, não seria preferível que os que estão habituados a apresentar,
+conforme ao gosto do público, o empírico imiscuído com o racional, combinado em
+toda a sorte de proporções que eles próprios desconhecem, que a si próprios se
+qualificam de autênticos pensadores ao mesmo tempo que apodam de visionários os que
+se ocupam da parte puramente racional, se não seria preferível, digo, que esses tais
+fossem advertidos a que não se incumbissem simultaneamente de duas tarefas que
+devem ser desempenhadas de maneira inteiramente diferente, cada uma das quais
+reclama sem dúvida talento particular, e cuja reunião numa só pessoa conduz fatalmente
+a produzir obra imperfeita. Limito-me, entanto, aqui, a perguntar se a natureza da
+ciência não exige que se separe sempre com sumo cuidado a parte empírica da parte
+racional, que se faça preceder a Física propriamente dita (empírica) de uma Metafísica
+da natureza, e a Antropologia prática de uma Metafísica dos costumes, as quais
+Metafísicas deveriam ser cuidadosamente expurgadas de todo elemento (389) empírico,
+com o intuito de saber tudo o que a razão pura pode fazer em ambos os casos e em que
+mananciais ela haure esta sua doutrinação a priori, quer semelhante tarefa seja
+empreendida por todos os moralistas (que não têm conto), quer somente por alguns que
+para tal se sintam especialmente chamados.
+Como aqui não tenho em vista senão propriamente a filosofia moral, limito a estes
+termos a questão proposta: não seria de suma necessidade elaborar, de vez, uma
+Filosofia moral. pura completamente expurgada de tudo quanto é empírico e pertence à
+Antropologia? Que tal filosofia deva existir resulta manifestamente da idéia comum do
+dever e das leis morais. Deve-se concordar que uma lei, para possuir valor moral, isto é,
+para fundamentar uma obrigação, precisa de implicar em si uma absoluta necessidade;
+requer, além disso, que o mandamento: "Não deves mentir" não seja válido somente
+para os homens, deixando a outros seres racionais a faculdade de não lhe ligarem
+importância. O mesmo se diga das restantes morais propriamente ditas. Por conseguinte,
+o princípio da obrigação não deve ser aqui buscado na natureza do homem, nem nas
+circunstâncias em que ele se encontra situado no mundo, mas a priori. só nos conceitos
+da razão pura]; e qualquer outra prescrição, que estribe nos princípios da simples
+experiência, mesmo que sob certos aspectos fosse prescrição universal, por pouco que
+se apóie em razões empíricas, nem que seja por um motivo apenas, pode ser
+denominada regra prática, nunca porém lei moral.
+Pelo que, em todo conhecimento prático não só as leis morais, juntamente com seus
+princípios, se distinguem essencialmente de tudo o que contém algum elemento
+empírico, como também toda filosofia moral se apóia inteiramente em sua parte pura, e,
+aplicada ao homem, não deduz coisa alguma do conhecimento do que este é
+(Antropologia), senão que lhe confere, na medida em que ele é ser racional, leis a
+priori. Sem dúvida tais leis exigem uma faculdade de julgar aguçada pela experiência,
+capaz de, em parte, discernir em que casos elas são aplicáveis e, em parte, procurar-lhes
+acesso à vontade humana e influência para a prática; porque o homem, sujeito como se
+encontra a tantas inclinações, possui decerto capacidade para conceber a idéia de uma
+razão pura prática, mas não pode assim com facilidade Tornar essa idéia eficaz in
+concreto em seu procedimento.
+(390) Uma Metafísica dos costumes é pois rigorosamente necessária, não só por motivo
+de necessidade da especulação, a fim de indagar a origem dos princípios práticos que
+existem a priori em nossa razão, mas também porque a própria moralidade está sujeita

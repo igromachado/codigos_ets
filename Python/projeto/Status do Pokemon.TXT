@@ -1,0 +1,9 @@
+Nome Pokemon: Charmander
+Nível: 1
+
+HP: 39
+Ataque: 52
+Defesa: 43
+Velocidade: 65
+Tipo: Fire
+Ataques: ['Tackle', 'Ember', 'Smokescreen', 'Dragon Breath']

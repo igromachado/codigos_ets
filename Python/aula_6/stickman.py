@@ -1,0 +1,2 @@
+def stickman(e):
+    pass
