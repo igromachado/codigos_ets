@@ -1,0 +1,14 @@
+{
+    "vendas": [
+        {"produto": "Notebook", "valor": 3000, "vendedor": "Ana"},
+        {"produto": "Mouse", "valor": 50, "vendedor": "Carlos"},
+        {"produto": "Teclado", "valor": 120, "vendedor": "Ana"},
+        {"produto": "Notebook", "valor": 3200, "vendedor": "Bruno"},
+        {"produto": "Monitor", "valor": 900, "vendedor": "Carlos"},
+        {"produto": "Mouse", "valor": 60, "vendedor": "Ana"},
+        {"produto": "Notebook", "valor": 2800, "vendedor": "Ana"},
+        {"produto": "Headset", "valor": 200, "vendedor": "Bruno"},
+        {"produto": "Monitor", "valor": 850, "vendedor": "Ana"},
+        {"produto": "Teclado", "valor": 150, "vendedor": "Carlos"}
+    ]
+}
