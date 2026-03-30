@@ -1,0 +1,17 @@
+[
+    {
+        "id_pedido": 1,
+        "nome_cliente": "Cliente_1",
+        "valor_total": 162.04
+    },
+    {
+        "id_pedido": 2,
+        "nome_cliente": "Cliente_2",
+        "valor_total": 1321.8899
+    },
+    {
+        "id_pedido": 3,
+        "nome_cliente": "Cliente_3",
+        "valor_total": 577.86
+    }
+]

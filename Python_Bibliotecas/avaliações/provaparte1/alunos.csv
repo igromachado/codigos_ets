@@ -1,0 +1,501 @@
+id_aluno,nome,curso,cidade,idade,nota_prova1,nota_prova2,faltas
+1,Carlos,Engenharia,Limeira,22,9.12,5.59,18
+2,Carlos,Enfermagem,São Paulo,18,9.88,7.89,10
+3,Gabriel,Enfermagem,São Paulo,26,9.54,6.1,4
+4,Bruno,Administração,Sumaré,34,3.87,5.61,19
+5,Daniela,Engenharia,Campinas,20,5.94,9.76,15
+6,Juliana,Ciência da Computação,Limeira,23,1.06,5.72,7
+7,Gabriel,Engenharia,Sumaré,29,6.85,5.1,7
+8,Bruno,Engenharia,Campinas,23,2.16,4.68,19
+9,Ana,Engenharia,,21,1.46,4.49,13
+10,Bruno,Engenharia,Limeira,20,2.9,5.68,18
+11,Juliana,Enfermagem,Campinas,31,4.15,7.59,12
+12,Ana,Enfermagem,Sumaré,19,3.4,0.81,10
+13,Ana,Engenharia,Limeira,28,5.87,2.17,12
+14,Juliana,Administração,Valinhos,26,0.67,9.91,18
+15,Daniela,Administração,Campinas,23,2.6,7.5,13
+16,Eduardo,Engenharia,Valinhos,26,4.05,7.13,13
+17,Ana,Ciência da Computação,Sumaré,34,5.72,1.33,6
+18,Ana,Enfermagem,Valinhos,28,4.4,2.3,14
+19,Eduardo,Direito,Campinas,26,4.51,4.3,16
+20,Bruno,Ciência da Computação,Sumaré,20,4.42,1.21,17
+21,Helena,Enfermagem,Sumaré,19,8.15,,18
+22,Daniela,Direito,Valinhos,20,1.96,1.44,16
+23,Carlos,Administração,Limeira,34,8.97,7.19,17
+24,Eduardo,Administração,Limeira,28,3.42,6.08,8
+25,Helena,Enfermagem,Campinas,34,9.15,6.55,4
+26,Carlos,Enfermagem,Campinas,29,1.43,1.52,10
+27,Eduardo,Direito,Limeira,20,8.0,5.21,6
+28,Igor,Administração,Limeira,31,0.42,7.25,8
+29,Ana,Ciência da Computação,Limeira,24,9.27,3.69,7
+30,Helena,Administração,Campinas,25,9.7,1.1,11
+31,Juliana,Direito,São Paulo,19,0.51,7.37,5
+32,Daniela,Administração,Campinas,24,8.03,5.2,0
+33,Eduardo,Ciência da Computação,Limeira,33,1.5,0.22,12
+34,Gabriel,Administração,São Paulo,18,6.75,0.94,9
+35,Bruno,Ciência da Computação,Sumaré,31,9.11,2.67,11
+36,Fernanda,Engenharia,Campinas,20,9.07,9.86,18
+37,Gabriel,Ciência da Computação,Campinas,31,2.13,0.55,3
+38,Carlos,Ciência da Computação,Limeira,20,1.07,4.87,7
+39,Bruno,Enfermagem,São Paulo,23,6.53,5.02,6
+40,Igor,Administração,Valinhos,30,6.73,7.84,8
+41,Daniela,Administração,Valinhos,28,3.23,4.87,15
+42,Fernanda,Enfermagem,São Paulo,22,9.87,4.45,13
+43,Ana,Administração,Valinhos,28,1.59,,10
+44,Carlos,Engenharia,Sumaré,19,1.92,2.83,10
+45,Gabriel,Direito,Sumaré,29,4.45,7.35,19
+46,Carlos,Administração,Campinas,18,5.86,1.62,8
+47,Eduardo,Ciência da Computação,Valinhos,25,8.47,7.1,18
+48,Eduardo,Engenharia,Limeira,19,9.4,1.2,10
+49,Gabriel,Ciência da Computação,Campinas,34,0.19,,9
+50,Daniela,Ciência da Computação,São Paulo,25,8.96,0.59,12
+51,Ana,Engenharia,Sumaré,21,3.36,7.64,14
+52,Gabriel,Engenharia,Limeira,27,1.12,8.72,11
+53,Eduardo,Administração,Limeira,28,3.26,9.67,13
+54,Helena,Direito,São Paulo,31,8.95,6.44,8
+55,Gabriel,Ciência da Computação,Campinas,31,3.34,1.08,3
+56,Helena,Ciência da Computação,Campinas,28,3.36,2.07,9
+57,Bruno,Engenharia,Campinas,28,6.13,0.1,16
+58,Fernanda,Direito,São Paulo,21,6.72,,16
+59,Helena,Ciência da Computação,São Paulo,27,5.24,2.32,3
+60,Juliana,Engenharia,Valinhos,31,9.87,,2
+61,Carlos,Administração,Campinas,34,9.6,9.4,1
+62,Eduardo,Administração,Campinas,23,8.03,1.58,10
+63,Igor,Enfermagem,Campinas,22,7.72,3.52,9
+64,Bruno,Enfermagem,Sumaré,23,1.48,8.8,9
+65,Carlos,Administração,Sumaré,28,0.91,7.54,14
+66,Bruno,Engenharia,Campinas,29,9.69,2.5,10
+67,Bruno,Engenharia,Campinas,20,0.78,0.24,9
+68,Daniela,Enfermagem,Campinas,32,8.06,,6
+69,Fernanda,Direito,Limeira,21,0.48,4.33,2
+70,Juliana,Administração,Limeira,30,1.79,9.09,18
+71,Ana,Direito,Campinas,31,4.18,5.69,14
+72,Igor,Enfermagem,São Paulo,31,9.7,5.63,14
+73,Bruno,Direito,,23,4.24,9.67,12
+74,Gabriel,Engenharia,Valinhos,28,1.38,2.98,18
+75,Daniela,Ciência da Computação,Limeira,20,1.74,4.41,0
+76,Daniela,Ciência da Computação,Sumaré,26,6.63,9.82,7
+77,Fernanda,Direito,Sumaré,32,9.74,2.27,6
+78,Juliana,Ciência da Computação,São Paulo,24,0.62,9.01,6
+79,Helena,Direito,Campinas,21,8.74,2.01,7
+80,Juliana,Administração,Campinas,29,5.26,4.64,13
+81,Carlos,Enfermagem,Valinhos,32,1.72,7.8,0
+82,Daniela,Direito,Sumaré,25,5.73,4.28,1
+83,Daniela,Engenharia,,32,7.0,4.37,2
+84,Daniela,Enfermagem,Limeira,23,6.12,7.7,11
+85,Igor,Engenharia,Limeira,34,9.25,5.68,3
+86,Gabriel,Ciência da Computação,Valinhos,18,6.42,4.16,18
+87,Juliana,Administração,,25,4.2,6.12,4
+88,Helena,Ciência da Computação,Campinas,31,2.94,8.26,17
+89,Gabriel,Administração,Valinhos,24,3.91,3.25,6
+90,Daniela,Direito,Limeira,26,2.59,1.87,13
+91,Juliana,Enfermagem,Campinas,28,4.29,9.79,14
+92,Gabriel,Engenharia,Valinhos,20,3.57,6.58,0
+93,Gabriel,Direito,São Paulo,32,4.86,2.1,15
+94,Gabriel,Engenharia,Limeira,22,0.64,3.75,11
+95,Bruno,Administração,São Paulo,22,8.95,0.85,1
+96,Daniela,Engenharia,Sumaré,33,8.46,4.22,8
+97,Eduardo,Ciência da Computação,São Paulo,23,5.73,0.2,9
+98,Daniela,Engenharia,Limeira,24,9.11,9.93,6
+99,Bruno,Administração,,32,3.6,9.84,0
+100,Ana,Engenharia,Limeira,26,8.16,5.21,0
+101,Fernanda,Enfermagem,Campinas,31,1.85,1.19,0
+102,Igor,Administração,Campinas,32,9.71,2.55,2
+103,Gabriel,Enfermagem,Sumaré,20,3.88,6.4,6
+104,Igor,Direito,Sumaré,24,5.89,6.58,8
+105,Juliana,Enfermagem,Limeira,28,2.01,1.69,4
+106,Bruno,Direito,São Paulo,19,5.87,5.27,19
+107,Ana,Administração,São Paulo,18,2.21,6.51,8
+108,Daniela,Engenharia,São Paulo,23,8.62,1.23,10
+109,Bruno,Administração,São Paulo,20,9.11,3.97,13
+110,Daniela,Ciência da Computação,Valinhos,31,1.46,7.03,10
+111,Eduardo,Administração,Sumaré,22,5.2,4.55,0
+112,Helena,Administração,São Paulo,28,7.31,0.94,2
+113,Gabriel,Ciência da Computação,Campinas,21,3.15,8.65,0
+114,Bruno,Ciência da Computação,Campinas,22,4.13,0.93,14
+115,Eduardo,Administração,Limeira,29,1.1,6.87,3
+116,Daniela,Ciência da Computação,,32,3.33,1.74,11
+117,Daniela,Administração,Sumaré,18,5.18,5.3,0
+118,Helena,Administração,Campinas,24,7.49,3.95,16
+119,Gabriel,Ciência da Computação,São Paulo,26,1.67,8.17,14
+120,Igor,Direito,Valinhos,34,7.99,1.35,8
+121,Gabriel,Ciência da Computação,Limeira,21,2.2,7.42,14
+122,Eduardo,Engenharia,Valinhos,20,7.7,2.5,11
+123,Eduardo,Direito,Limeira,33,1.74,2.17,16
+124,Helena,Engenharia,Valinhos,26,7.22,7.41,9
+125,Ana,Ciência da Computação,Valinhos,34,8.93,4.18,12
+126,Ana,Ciência da Computação,Limeira,24,1.78,9.96,10
+127,Juliana,Administração,Limeira,33,6.75,8.29,7
+128,Igor,Engenharia,Sumaré,30,5.3,4.67,13
+129,Igor,Ciência da Computação,São Paulo,25,3.97,2.56,7
+130,Eduardo,Ciência da Computação,São Paulo,19,7.05,4.5,18
+131,Igor,Ciência da Computação,Valinhos,28,6.98,,2
+132,Gabriel,Engenharia,Sumaré,31,3.38,8.04,18
+133,Bruno,Ciência da Computação,Limeira,33,3.68,0.45,13
+134,Gabriel,Enfermagem,Limeira,28,7.7,0.92,18
+135,Igor,Enfermagem,Valinhos,26,7.91,3.87,3
+136,Helena,Ciência da Computação,Sumaré,26,9.93,2.44,11
+137,Juliana,Direito,Valinhos,19,9.4,7.47,8
+138,Bruno,Engenharia,São Paulo,25,9.33,3.38,1
+139,Helena,Administração,Limeira,24,9.33,9.01,16
+140,Bruno,Direito,Sumaré,21,8.32,8.7,9
+141,Helena,Enfermagem,Limeira,21,6.66,6.8,9
+142,Juliana,Engenharia,Valinhos,33,1.31,4.59,0
+143,Igor,Administração,Sumaré,21,2.9,4.07,15
+144,Helena,Enfermagem,São Paulo,26,9.27,6.03,15
+145,Bruno,Ciência da Computação,Sumaré,20,9.72,3.86,13
+146,Daniela,Ciência da Computação,Valinhos,27,7.42,8.23,18
+147,Bruno,Administração,Limeira,21,0.61,7.09,14
+148,Igor,Engenharia,Valinhos,26,8.54,8.66,3
+149,Helena,Administração,Sumaré,18,1.73,0.15,1
+150,Fernanda,Administração,Sumaré,18,7.42,3.04,3
+151,Bruno,Direito,Valinhos,26,3.2,0.23,6
+152,Carlos,Ciência da Computação,São Paulo,20,1.65,9.53,17
+153,Fernanda,Ciência da Computação,São Paulo,28,1.64,9.02,6
+154,Carlos,Enfermagem,Campinas,18,1.25,3.8,18
+155,Carlos,Direito,Campinas,23,9.98,5.75,15
+156,Juliana,Ciência da Computação,Limeira,31,5.18,8.62,13
+157,Daniela,Direito,,28,4.12,5.29,13
+158,Carlos,Engenharia,Limeira,27,2.07,5.09,16
+159,Gabriel,Direito,Limeira,30,4.17,9.48,7
+160,Helena,Ciência da Computação,Campinas,26,8.69,1.06,3
+161,Juliana,Administração,São Paulo,32,1.59,9.78,11
+162,Bruno,Engenharia,Limeira,33,5.04,5.76,11
+163,Daniela,Engenharia,Campinas,21,5.36,9.14,14
+164,Igor,Ciência da Computação,São Paulo,29,8.49,9.72,12
+165,Daniela,Direito,São Paulo,32,2.56,8.81,19
+166,Helena,Administração,São Paulo,28,2.72,8.11,11
+167,Juliana,Ciência da Computação,Campinas,18,4.16,7.31,0
+168,Juliana,Engenharia,Campinas,32,0.1,8.52,15
+169,Daniela,Engenharia,Valinhos,25,0.93,3.13,4
+170,Daniela,Engenharia,Valinhos,27,6.96,1.24,10
+171,Fernanda,Engenharia,Campinas,23,5.68,,19
+172,Gabriel,Engenharia,Limeira,24,0.68,5.12,10
+173,Ana,Direito,São Paulo,23,4.29,1.94,2
+174,Igor,Administração,Valinhos,32,4.21,8.25,0
+175,Helena,Direito,Valinhos,29,9.28,2.81,16
+176,Helena,Administração,São Paulo,24,6.41,3.94,8
+177,Eduardo,Direito,Valinhos,32,7.29,2.67,15
+178,Eduardo,Ciência da Computação,Sumaré,22,3.04,1.99,2
+179,Fernanda,Engenharia,Sumaré,20,2.3,8.78,17
+180,Ana,Ciência da Computação,Valinhos,25,9.71,5.04,7
+181,Igor,Administração,Limeira,30,3.0,5.7,18
+182,Juliana,Administração,Sumaré,34,9.81,6.01,11
+183,Carlos,Enfermagem,Limeira,25,1.37,6.37,12
+184,Fernanda,Engenharia,Campinas,21,7.81,5.17,11
+185,Bruno,Engenharia,São Paulo,23,5.98,0.9,15
+186,Fernanda,Administração,,33,8.89,3.84,8
+187,Juliana,Enfermagem,Sumaré,22,3.08,0.92,4
+188,Carlos,Engenharia,Limeira,27,1.23,9.45,18
+189,Eduardo,Engenharia,Valinhos,27,9.79,9.09,5
+190,Daniela,Ciência da Computação,Campinas,28,4.06,4.16,4
+191,Ana,Direito,,25,4.67,7.04,3
+192,Daniela,Enfermagem,Sumaré,22,5.24,3.36,8
+193,Helena,Administração,Valinhos,27,5.29,5.4,17
+194,Helena,Direito,Valinhos,28,4.24,2.47,0
+195,Carlos,Ciência da Computação,Valinhos,27,9.21,7.18,13
+196,Fernanda,Administração,Campinas,20,1.49,0.9,10
+197,Bruno,Administração,Campinas,19,6.48,7.37,6
+198,Helena,Ciência da Computação,São Paulo,30,4.67,1.65,16
+199,Fernanda,Engenharia,Campinas,31,7.59,3.27,7
+200,Juliana,Engenharia,Campinas,20,8.11,3.85,17
+201,Bruno,Direito,São Paulo,33,3.24,3.76,15
+202,Carlos,Enfermagem,Valinhos,32,7.68,3.81,18
+203,Igor,Engenharia,Campinas,30,3.43,6.6,10
+204,Fernanda,Enfermagem,São Paulo,29,3.59,4.61,19
+205,Ana,Administração,Valinhos,29,9.48,4.18,0
+206,Juliana,Ciência da Computação,Limeira,23,1.6,8.93,19
+207,Daniela,Direito,São Paulo,24,8.05,9.2,10
+208,Daniela,Engenharia,São Paulo,23,9.23,6.06,17
+209,Daniela,Direito,Valinhos,18,0.71,5.61,12
+210,Bruno,Enfermagem,Sumaré,21,8.14,6.35,11
+211,Helena,Ciência da Computação,Limeira,24,4.93,8.25,4
+212,Gabriel,Enfermagem,Campinas,34,0.64,8.02,8
+213,Daniela,Direito,Sumaré,29,9.82,7.88,11
+214,Bruno,Administração,Valinhos,29,8.5,4.55,19
+215,Helena,Administração,Valinhos,24,2.04,9.6,19
+216,Carlos,Enfermagem,Valinhos,23,9.46,1.28,4
+217,Gabriel,Ciência da Computação,Sumaré,24,4.75,0.85,4
+218,Fernanda,Enfermagem,Valinhos,21,0.5,1.15,14
+219,Juliana,Engenharia,Limeira,21,5.74,,4
+220,Igor,Ciência da Computação,Sumaré,25,2.82,7.16,10
+221,Juliana,Ciência da Computação,Limeira,21,3.5,5.06,19
+222,Eduardo,Enfermagem,Limeira,34,3.44,3.1,1
+223,Helena,Ciência da Computação,Valinhos,26,4.81,,2
+224,Igor,Administração,Limeira,21,6.14,7.0,0
+225,Fernanda,Direito,Sumaré,27,4.15,9.56,5
+226,Juliana,Administração,Valinhos,23,0.54,0.54,14
+227,Carlos,Ciência da Computação,Campinas,23,7.64,1.41,18
+228,Eduardo,Direito,São Paulo,21,4.79,2.74,11
+229,Daniela,Engenharia,Campinas,32,4.25,5.29,0
+230,Daniela,Enfermagem,Sumaré,20,7.42,3.78,18
+231,Bruno,Ciência da Computação,Valinhos,28,4.19,6.25,9
+232,Helena,Enfermagem,Sumaré,21,2.4,3.94,5
+233,Igor,Direito,,25,0.61,9.91,2
+234,Fernanda,Enfermagem,São Paulo,23,5.56,7.73,8
+235,Helena,Ciência da Computação,Limeira,18,2.28,9.92,4
+236,Helena,Ciência da Computação,Limeira,22,4.59,2.37,12
+237,Helena,Administração,Limeira,30,0.23,7.45,11
+238,Fernanda,Enfermagem,São Paulo,29,1.59,2.49,11
+239,Ana,Enfermagem,Sumaré,22,3.85,4.42,9
+240,Ana,Administração,Campinas,18,7.18,1.06,5
+241,Igor,Administração,Campinas,19,8.15,2.58,15
+242,Bruno,Enfermagem,Campinas,20,3.51,1.05,13
+243,Ana,Direito,São Paulo,34,9.88,4.51,17
+244,Eduardo,Direito,Sumaré,26,6.89,9.67,9
+245,Fernanda,Engenharia,Sumaré,27,9.23,6.86,9
+246,Eduardo,Administração,Sumaré,26,0.13,6.08,13
+247,Fernanda,Direito,Campinas,31,1.86,1.38,4
+248,Ana,Ciência da Computação,Campinas,23,2.12,0.52,3
+249,Helena,Ciência da Computação,Campinas,23,9.85,9.97,10
+250,Bruno,Administração,,20,2.94,,19
+251,Carlos,Ciência da Computação,São Paulo,33,8.68,4.82,2
+252,Carlos,Engenharia,Campinas,29,9.3,9.02,1
+253,Helena,Ciência da Computação,Sumaré,21,5.82,,11
+254,Helena,Engenharia,Sumaré,31,3.78,1.87,13
+255,Daniela,Enfermagem,Sumaré,20,7.88,7.65,14
+256,Gabriel,Ciência da Computação,Valinhos,25,4.63,2.96,8
+257,Bruno,Ciência da Computação,Sumaré,30,3.03,1.95,17
+258,Igor,Direito,São Paulo,23,9.43,7.87,16
+259,Eduardo,Enfermagem,São Paulo,20,0.87,9.45,11
+260,Bruno,Administração,Campinas,26,1.31,3.66,13
+261,Gabriel,Administração,Sumaré,26,3.87,3.83,14
+262,Fernanda,Engenharia,Sumaré,21,3.08,6.79,17
+263,Juliana,Ciência da Computação,Sumaré,31,6.36,,4
+264,Ana,Ciência da Computação,São Paulo,23,1.17,6.06,11
+265,Daniela,Ciência da Computação,São Paulo,19,6.72,5.35,0
+266,Bruno,Direito,Sumaré,30,5.47,5.04,5
+267,Daniela,Administração,Campinas,28,2.78,7.79,4
+268,Helena,Ciência da Computação,Campinas,22,0.05,5.43,2
+269,Helena,Enfermagem,São Paulo,34,9.09,3.4,19
+270,Helena,Administração,Valinhos,31,6.19,5.4,3
+271,Fernanda,Enfermagem,Sumaré,33,8.51,8.63,14
+272,Daniela,Enfermagem,São Paulo,27,5.3,7.73,19
+273,Gabriel,Engenharia,Sumaré,30,4.65,8.72,11
+274,Daniela,Engenharia,São Paulo,24,6.49,2.0,12
+275,Fernanda,Direito,São Paulo,19,1.41,9.56,19
+276,Bruno,Direito,Limeira,24,6.15,0.88,9
+277,Fernanda,Direito,Valinhos,30,4.89,3.13,16
+278,Juliana,Engenharia,São Paulo,25,0.5,8.18,7
+279,Bruno,Ciência da Computação,Limeira,22,6.63,5.78,16
+280,Daniela,Administração,São Paulo,24,4.7,6.32,7
+281,Juliana,Administração,Limeira,24,2.76,9.23,13
+282,Bruno,Engenharia,Limeira,21,1.69,3.34,3
+283,Fernanda,Direito,Valinhos,29,9.01,5.85,0
+284,Gabriel,Direito,Sumaré,23,0.13,3.46,13
+285,Bruno,Administração,Sumaré,32,7.28,9.02,10
+286,Fernanda,Ciência da Computação,,18,9.56,4.15,15
+287,Ana,Ciência da Computação,São Paulo,18,0.84,5.03,9
+288,Helena,Ciência da Computação,,21,5.08,8.74,10
+289,Ana,Enfermagem,Valinhos,34,4.17,7.88,16
+290,Daniela,Engenharia,Valinhos,24,2.86,0.26,16
+291,Ana,Administração,São Paulo,29,6.55,0.78,16
+292,Gabriel,Enfermagem,Sumaré,26,1.04,0.97,7
+293,Carlos,Direito,Valinhos,33,8.11,5.78,14
+294,Helena,Engenharia,Sumaré,18,6.18,2.97,14
+295,Fernanda,Engenharia,Sumaré,29,9.85,1.17,2
+296,Bruno,Ciência da Computação,São Paulo,32,3.14,5.92,6
+297,Ana,Direito,Campinas,26,6.5,3.46,13
+298,Ana,Enfermagem,,26,9.91,7.82,6
+299,Carlos,Administração,Valinhos,27,5.33,6.94,11
+300,Gabriel,Engenharia,São Paulo,27,6.92,5.73,1
+301,Fernanda,Enfermagem,,26,3.99,5.37,4
+302,Juliana,Ciência da Computação,São Paulo,18,1.17,5.78,0
+303,Bruno,Direito,Valinhos,28,8.46,1.1,12
+304,Fernanda,Engenharia,Limeira,26,8.08,,6
+305,Daniela,Enfermagem,São Paulo,22,7.35,0.42,18
+306,Gabriel,Engenharia,Sumaré,23,4.56,1.41,19
+307,Eduardo,Engenharia,São Paulo,21,1.15,1.22,1
+308,Helena,Engenharia,Limeira,30,4.55,3.91,7
+309,Bruno,Administração,Sumaré,24,9.58,6.05,13
+310,Gabriel,Ciência da Computação,Sumaré,21,6.88,1.34,2
+311,Ana,Enfermagem,Sumaré,22,0.26,8.05,19
+312,Daniela,Direito,São Paulo,30,3.05,8.8,19
+313,Bruno,Enfermagem,São Paulo,29,4.72,,1
+314,Daniela,Ciência da Computação,Sumaré,34,8.57,4.61,17
+315,Ana,Enfermagem,Limeira,25,2.16,8.77,12
+316,Igor,Ciência da Computação,Campinas,34,0.34,9.05,5
+317,Fernanda,Engenharia,Sumaré,23,6.58,4.3,17
+318,Bruno,Enfermagem,Limeira,22,8.0,9.91,10
+319,Eduardo,Administração,Limeira,29,4.34,0.73,15
+320,Daniela,Administração,Limeira,33,6.27,2.13,7
+321,Carlos,Engenharia,Sumaré,23,6.31,5.56,9
+322,Carlos,Direito,Sumaré,19,7.94,0.06,16
+323,Ana,Engenharia,Campinas,19,3.2,3.35,10
+324,Carlos,Ciência da Computação,Limeira,28,2.11,6.46,11
+325,Ana,Enfermagem,São Paulo,31,4.5,9.76,19
+326,Carlos,Administração,Valinhos,21,9.55,8.33,19
+327,Helena,Ciência da Computação,Valinhos,22,1.16,9.23,1
+328,Juliana,Engenharia,Limeira,27,5.21,0.38,1
+329,Ana,Administração,Valinhos,28,9.85,0.71,4
+330,Daniela,Ciência da Computação,Valinhos,27,5.06,8.03,1
+331,Juliana,Engenharia,Sumaré,34,9.46,5.7,0
+332,Helena,Engenharia,Sumaré,31,8.11,4.01,14
+333,Ana,Direito,Campinas,34,9.48,6.4,12
+334,Fernanda,Administração,Limeira,23,4.65,,4
+335,Eduardo,Ciência da Computação,Valinhos,21,3.3,2.26,9
+336,Gabriel,Direito,Sumaré,33,4.6,9.79,3
+337,Ana,Enfermagem,Valinhos,18,5.03,7.14,2
+338,Helena,Direito,Valinhos,28,1.94,9.78,3
+339,Igor,Engenharia,,31,5.9,8.58,19
+340,Igor,Enfermagem,Limeira,21,8.29,3.92,7
+341,Bruno,Engenharia,Sumaré,28,8.62,9.42,1
+342,Ana,Ciência da Computação,Sumaré,34,8.54,1.43,8
+343,Bruno,Direito,São Paulo,22,7.14,2.15,4
+344,Helena,Ciência da Computação,Sumaré,29,2.04,0.67,14
+345,Fernanda,Direito,São Paulo,26,0.84,4.25,2
+346,Daniela,Ciência da Computação,Limeira,27,6.55,6.84,3
+347,Ana,Engenharia,Campinas,31,3.03,3.46,11
+348,Eduardo,Enfermagem,Valinhos,33,5.38,6.46,3
+349,Igor,Enfermagem,Campinas,25,1.67,5.06,4
+350,Eduardo,Enfermagem,São Paulo,26,1.12,8.72,10
+351,Juliana,Engenharia,Valinhos,27,9.19,3.07,11
+352,Daniela,Ciência da Computação,Valinhos,22,6.57,8.76,15
+353,Fernanda,Engenharia,Limeira,34,6.95,6.33,0
+354,Bruno,Ciência da Computação,Valinhos,22,0.2,6.67,16
+355,Igor,Ciência da Computação,Valinhos,27,3.58,1.95,16
+356,Ana,Engenharia,São Paulo,30,5.57,,19
+357,Juliana,Ciência da Computação,São Paulo,18,0.69,2.8,4
+358,Bruno,Enfermagem,São Paulo,22,1.65,8.98,10
+359,Fernanda,Ciência da Computação,Valinhos,23,7.3,,9
+360,Igor,Ciência da Computação,Limeira,29,3.04,7.99,4
+361,Igor,Administração,São Paulo,20,1.83,0.22,1
+362,Eduardo,Enfermagem,Valinhos,34,0.49,7.48,17
+363,Gabriel,Enfermagem,São Paulo,19,0.7,3.15,6
+364,Igor,Direito,Limeira,19,3.52,,18
+365,Helena,Administração,Valinhos,27,0.13,1.55,9
+366,Juliana,Enfermagem,São Paulo,29,6.94,5.52,2
+367,Carlos,Administração,Limeira,19,9.89,7.49,16
+368,Ana,Enfermagem,São Paulo,22,0.87,8.09,3
+369,Ana,Direito,,31,6.77,9.09,9
+370,Juliana,Engenharia,Valinhos,28,3.06,,3
+371,Juliana,Administração,Sumaré,30,5.01,5.6,8
+372,Fernanda,Administração,Valinhos,34,4.6,3.65,4
+373,Daniela,Direito,Campinas,31,9.1,2.27,10
+374,Fernanda,Ciência da Computação,Sumaré,33,5.36,9.83,1
+375,Fernanda,Engenharia,Sumaré,34,0.58,0.53,13
+376,Carlos,Administração,São Paulo,31,1.34,2.69,1
+377,Carlos,Engenharia,Sumaré,31,2.43,3.81,7
+378,Helena,Ciência da Computação,Valinhos,22,2.53,2.03,7
+379,Daniela,Ciência da Computação,,23,1.92,2.61,15
+380,Bruno,Direito,Campinas,29,7.08,1.21,2
+381,Daniela,Ciência da Computação,São Paulo,32,6.69,4.75,2
+382,Juliana,Enfermagem,Limeira,28,6.13,6.98,8
+383,Daniela,Ciência da Computação,Sumaré,24,4.82,1.45,15
+384,Gabriel,Ciência da Computação,São Paulo,23,2.53,6.49,14
+385,Carlos,Administração,São Paulo,20,1.94,1.09,9
+386,Daniela,Direito,Campinas,32,4.42,5.35,12
+387,Bruno,Enfermagem,Campinas,29,9.78,7.14,15
+388,Juliana,Engenharia,São Paulo,34,8.72,6.62,9
+389,Igor,Direito,São Paulo,21,6.27,7.02,7
+390,Ana,Enfermagem,Sumaré,32,6.97,7.42,0
+391,Carlos,Enfermagem,Sumaré,31,1.3,6.21,4
+392,Daniela,Administração,Valinhos,20,9.73,7.49,6
+393,Helena,Administração,São Paulo,32,1.13,0.76,2
+394,Juliana,Enfermagem,Sumaré,22,1.6,1.59,16
+395,Carlos,Engenharia,Campinas,23,2.09,2.67,11
+396,Helena,Engenharia,Valinhos,24,8.59,5.04,10
+397,Juliana,Engenharia,Limeira,25,2.38,6.08,8
+398,Helena,Ciência da Computação,Valinhos,28,9.27,4.5,9
+399,Bruno,Direito,Campinas,34,8.45,0.9,4
+400,Eduardo,Ciência da Computação,São Paulo,28,7.18,9.87,8
+401,Helena,Enfermagem,Limeira,34,7.78,1.91,7
+402,Eduardo,Engenharia,Valinhos,22,5.0,6.03,4
+403,Helena,Engenharia,Sumaré,27,1.46,9.05,9
+404,Igor,Enfermagem,São Paulo,34,5.21,6.54,3
+405,Ana,Direito,São Paulo,27,7.29,4.71,12
+406,Carlos,Enfermagem,Valinhos,29,1.38,7.99,8
+407,Helena,Enfermagem,Limeira,29,7.95,4.29,19
+408,Eduardo,Engenharia,Limeira,19,0.85,7.65,11
+409,Daniela,Engenharia,Sumaré,24,9.88,2.56,8
+410,Helena,Direito,Campinas,26,6.49,5.1,5
+411,Daniela,Administração,,26,8.8,3.17,12
+412,Helena,Engenharia,Sumaré,32,2.86,,5
+413,Ana,Administração,Limeira,26,4.64,4.41,12
+414,Helena,Engenharia,Sumaré,28,4.32,,18
+415,Gabriel,Direito,Valinhos,32,2.83,9.82,14
+416,Igor,Ciência da Computação,São Paulo,29,4.56,8.97,15
+417,Gabriel,Engenharia,,28,7.6,4.8,13
+418,Igor,Enfermagem,Valinhos,24,4.97,1.43,7
+419,Ana,Direito,Limeira,27,8.83,1.28,0
+420,Fernanda,Administração,São Paulo,23,3.34,0.49,5
+421,Daniela,Engenharia,Campinas,21,8.62,4.03,6
+422,Carlos,Ciência da Computação,Limeira,28,5.21,8.64,18
+423,Eduardo,Ciência da Computação,Limeira,23,8.51,6.88,13
+424,Daniela,Ciência da Computação,Valinhos,34,2.57,7.47,12
+425,Daniela,Engenharia,São Paulo,26,4.69,6.58,4
+426,Juliana,Ciência da Computação,Valinhos,18,3.97,9.36,9
+427,Helena,Enfermagem,Valinhos,28,7.07,3.8,5
+428,Bruno,Administração,São Paulo,22,6.47,7.44,18
+429,Igor,Administração,Limeira,22,3.22,2.69,0
+430,Ana,Enfermagem,Campinas,32,3.3,6.79,6
+431,Bruno,Administração,Limeira,20,7.65,7.08,13
+432,Eduardo,Ciência da Computação,Limeira,30,7.69,3.66,0
+433,Helena,Ciência da Computação,Limeira,19,9.21,3.77,15
+434,Carlos,Enfermagem,São Paulo,33,3.37,0.11,7
+435,Eduardo,Direito,Limeira,33,4.36,4.45,11
+436,Igor,Enfermagem,São Paulo,32,1.38,3.84,12
+437,Daniela,Enfermagem,São Paulo,20,4.18,7.68,4
+438,Eduardo,Engenharia,Campinas,31,1.99,8.88,6
+439,Juliana,Engenharia,Valinhos,19,8.75,1.83,15
+440,Gabriel,Direito,,26,5.66,4.18,18
+441,Carlos,Enfermagem,Campinas,29,9.92,,1
+442,Helena,Engenharia,Valinhos,34,8.81,7.8,5
+443,Helena,Enfermagem,São Paulo,25,1.26,0.48,19
+444,Helena,Direito,Sumaré,28,7.88,6.46,4
+445,Eduardo,Engenharia,Valinhos,25,1.38,0.06,11
+446,Helena,Engenharia,Valinhos,18,7.84,5.12,4
+447,Igor,Administração,Limeira,21,2.74,,8
+448,Eduardo,Ciência da Computação,Valinhos,32,0.52,5.09,7
+449,Ana,Enfermagem,Sumaré,30,3.21,5.92,5
+450,Helena,Direito,Campinas,22,4.71,8.64,7
+451,Gabriel,Enfermagem,Limeira,29,3.84,2.43,2
+452,Daniela,Enfermagem,Campinas,33,1.83,5.46,11
+453,Eduardo,Enfermagem,São Paulo,18,6.13,0.52,4
+454,Bruno,Direito,Valinhos,31,2.05,2.74,11
+455,Bruno,Ciência da Computação,Campinas,18,5.79,8.47,6
+456,Helena,Enfermagem,Limeira,21,6.85,6.8,7
+457,Carlos,Engenharia,Campinas,24,9.77,3.18,7
+458,Helena,Administração,Campinas,33,0.87,0.51,1
+459,Igor,Ciência da Computação,Campinas,18,1.59,1.66,19
+460,Juliana,Ciência da Computação,São Paulo,21,6.83,1.84,2
+461,Eduardo,Enfermagem,Limeira,19,7.71,4.34,10
+462,Eduardo,Direito,São Paulo,28,2.7,2.64,10
+463,Eduardo,Ciência da Computação,Limeira,22,2.15,5.33,15
+464,Helena,Administração,,28,7.68,1.29,4
+465,Helena,Administração,Sumaré,23,3.42,1.68,18
+466,Juliana,Direito,São Paulo,19,5.95,9.13,16
+467,Juliana,Enfermagem,São Paulo,18,4.37,3.41,12
+468,Eduardo,Administração,Sumaré,29,3.66,3.7,10
+469,Bruno,Engenharia,,19,3.65,7.62,12
+470,Fernanda,Administração,Limeira,26,9.76,8.86,16
+471,Fernanda,Ciência da Computação,Limeira,28,8.26,7.13,11
+472,Igor,Enfermagem,Campinas,27,1.99,3.42,16
+473,Juliana,Ciência da Computação,Campinas,23,5.7,6.44,9
+474,Fernanda,Administração,Valinhos,30,6.09,0.46,6
+475,Bruno,Direito,Sumaré,22,2.2,2.32,18
+476,Ana,Ciência da Computação,Sumaré,28,8.76,9.87,13
+477,Gabriel,Ciência da Computação,Valinhos,19,6.38,4.26,5
+478,Ana,Direito,Limeira,24,9.73,2.41,9
+479,Juliana,Engenharia,Campinas,31,8.86,7.88,0
+480,Eduardo,Administração,Campinas,19,7.6,,16
+481,Gabriel,Direito,,34,7.16,8.23,4
+482,Eduardo,Direito,Sumaré,28,5.02,9.82,4
+483,Fernanda,Enfermagem,Campinas,20,9.27,2.25,17
+484,Daniela,Ciência da Computação,Sumaré,31,2.52,3.51,19
+485,Eduardo,Administração,Valinhos,33,7.11,5.41,12
+486,Gabriel,Direito,Campinas,24,9.94,5.72,3
+487,Carlos,Administração,Valinhos,28,9.19,6.77,6
+488,Fernanda,Ciência da Computação,Sumaré,21,3.16,7.84,15
+489,Carlos,Ciência da Computação,,25,8.68,9.1,7
+490,Eduardo,Administração,Valinhos,29,6.48,5.18,10
+491,Daniela,Engenharia,Sumaré,31,5.88,2.46,1
+492,Carlos,Engenharia,São Paulo,24,0.76,7.1,17
+493,Eduardo,Enfermagem,Campinas,32,8.42,2.51,14
+494,Igor,Administração,Sumaré,20,6.51,4.97,17
+495,Ana,Ciência da Computação,Limeira,31,3.42,5.46,19
+496,Gabriel,Enfermagem,Limeira,23,5.98,6.1,14
+497,Igor,Direito,Valinhos,18,7.76,7.33,0
+498,Igor,Ciência da Computação,Limeira,20,1.91,4.46,2
+499,Fernanda,Enfermagem,Sumaré,20,8.04,7.84,14
+500,Gabriel,Administração,Sumaré,19,7.41,4.41,16
